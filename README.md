@@ -380,6 +380,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 ## OSINT
 
 - [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website.
+- [GhostIntel](https://github.com/ruyynn/GhostIntel) - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
 
 ## Natural Language Processing
 
